@@ -17,5 +17,5 @@ Este repositorio reúne dashboards creados en diferentes contextos de negocio (m
   https://lookerstudio.google.com/reporting/7d28ce96-d973-45b6-89d2-366abc70af53
 
 ## 📬 Contacto
-- LinkedIn: [Tu enlace aquí]  
-- Email: [Tu correo aquí]  
+- LinkedIn: www.linkedin/in/saulmataherrera  
+- Email: matasaul.97@gmail.com
