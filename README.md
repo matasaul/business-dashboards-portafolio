@@ -8,9 +8,9 @@ Este repositorio reúne dashboards creados en diferentes contextos de negocio (m
 - Looker Studio
 
 ## 📈 Proyectos incluidos
-- **Ventas y Marketing**  
+- **Ventas**  
   Dashboard que muestra KPIs de ventas, participación de mercado y efectividad de campañas.  
-  ![Dashboard Marketing](imagenes/dashboard_marketing.png)
+  ![Dashboard Ventas](https://lookerstudio.google.com/s/neVX7plyNuc)
 
 - **Finanzas**  
   Dashboard con análisis de ingresos, gastos y márgenes de rentabilidad.  
