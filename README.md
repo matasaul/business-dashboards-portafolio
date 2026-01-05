@@ -12,13 +12,9 @@ Este repositorio reúne dashboards creados en diferentes contextos de negocio (m
   Dashboard que muestra KPIs de ventas, participación de mercado y efectividad de campañas.  
   https://lookerstudio.google.com/s/neVX7plyNuc
 
-- **Finanzas**  
-  Dashboard con análisis de ingresos, gastos y márgenes de rentabilidad.  
-  ![Dashboard Finanzas](imagenes/dashboard_finanzas.png)
-
-- **Recursos Humanos**  
-  Dashboard con métricas de rotación, desempeño y capacitación.  
-  ![Dashboard RRHH](imagenes/dashboard_rrhh.png)
+- **Estudio Social**  
+  Dashboard que muestra el indice de delitos mas frecuentes.  
+  https://lookerstudio.google.com/reporting/7d28ce96-d973-45b6-89d2-366abc70af53
 
 ## 📬 Contacto
 - LinkedIn: [Tu enlace aquí]  
