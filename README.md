@@ -1,4 +1,4 @@
-# 📊 Business Dashboards Portafolio
+# 📊 Business Dashboards
 
 ## 🎯 Objetivo
 Este repositorio reúne dashboards creados en diferentes contextos de negocio (marketing, finanzas, RRHH, etc.), mostrando mi capacidad para diseñar visualizaciones ejecutivas y comunicar insights de manera clara.
