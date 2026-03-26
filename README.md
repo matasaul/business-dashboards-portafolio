@@ -4,7 +4,6 @@
 Este repositorio reúne dashboards creados en diferentes contextos de negocio (marketing, finanzas, RRHH, etc.), mostrando mi capacidad para diseñar visualizaciones ejecutivas y comunicar insights de manera clara.
 
 ## 🛠️ Herramientas utilizadas
-- Power BI
 - Looker Studio
 
 ## 📈 Proyectos incluidos
@@ -14,7 +13,7 @@ Este repositorio reúne dashboards creados en diferentes contextos de negocio (m
 
 - **Estudio Social**  
   Dashboard que muestra el indice de delitos mas frecuentes.  
-  https://lookerstudio.google.com/reporting/7d28ce96-d973-45b6-89d2-366abc70af53
+  https://lookerstudio.google.com/s/qu9KCFs4i_w
 
 ## 📬 Contacto
 - LinkedIn: www.linkedin/in/saulmataherrera  
