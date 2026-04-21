@@ -6,6 +6,11 @@ Este repositorio reúne dashboards creados en diferentes contextos de negocio (m
 ## 🛠️ Herramientas utilizadas
 - Looker Studio
 
+## Fuentes de datos
+
+- **Ventas**: Dataset descargado de **Kaggle**, utilizado para analizar KPIs de ventas, participación de mercado y efectividad de campañas.  
+- **Estudio Social**: Datos abiertos de incidencia delictiva obtenidos del portal oficial del **Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública (SESNSP)**, disponible en [gob.mx/sesnsp](https://www.gob.mx/sesnsp/acciones-y-programas/datos-abiertos-de-incidencia-delictiva?state=published).  
+
 ## 📈 Proyectos incluidos
 - **Ventas**  
   Dashboard que muestra KPIs de ventas, participación de mercado y efectividad de campañas.  
